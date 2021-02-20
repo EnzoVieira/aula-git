@@ -15,3 +15,7 @@
 - `git log` // visualiza os pontos na linha do tempo / commit
 - `git status` // informa o estado das alterações do nosso projeto
 - `git show` // apresenta determinado ponto na história
+- `git branch` // gerenciar novas linhas paralelas do tempo
+- `git checkout` // manipula as linhas paralelas do tempo
+- `git merge` // unir linhas paralelas do tempo
+- `git push` // envia alterações locais para o repositório remoto
