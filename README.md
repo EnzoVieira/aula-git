@@ -26,7 +26,7 @@
 - `git checkout` // manipula as linhas do tempo
 - `git merge` // unir linhas paralelas do tempo
 - `git push` // envia alterações locais para o repositório remoto
-- `git checkout -b teste`
-- `git commit -am "mensagem"`
+- `git checkout -b teste` // comando rápido para criar e entrar em uma nova branch
+- `git commit -am "mensagem"` // comando rápido para adicionar e commitar alteraçoes com mensagem
 - `git clone` // clonar um projeto / remoto
 - `git pull` // puxa do repositório remoto
