@@ -11,6 +11,9 @@
 
 - [x] Você vai pegar um projeto já iniciado, para trabalhar com o time.
 - [x] Você precisa resolver um conflito.
+- [x] Antes de enviar a resolução, precisamos atualizar o projeto local.
+
+- [x] Você precisa voltar um arquivo para determinado momento da linha do tempo.
 
 - `git init` // inicia a linha do tempo
 - `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
@@ -19,8 +22,9 @@
 - `git status` // informa o estado das alterações do nosso projeto
 - `git show` // apresenta determinado ponto na história
 - `git branch` // gerenciar novas linhas paralelas do tempo
-- `git checkout` // manipula as linhas paralelas do tempo
+- `git checkout` // manipula as linhas do tempo
 - `git merge` // unir linhas paralelas do tempo
 - `git push` // envia alterações locais para o repositório remoto
 - `git checkout -b teste`
 - `git commit -am "mensagem"`
+- `git pull`
